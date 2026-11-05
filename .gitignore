@@ -1,0 +1,20 @@
+
+# Frontend
+node_modules/
+.next/
+out/
+dist/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Operating system
+.DS_Store
+Thumbs.db
