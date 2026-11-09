@@ -14,7 +14,7 @@ export default function Home() {
         {/* Navigation Links */}
         <div className="flex items-center gap-8 text-slate-300">
           <a href="#" className="hover:text-blue-400">Home</a>
-          <a href="#" className="hover:text-blue-400">Products</a>
+          <a href="/products" className="hover:text-blue-400">Products</a>
           <a href="#" className="hover:text-blue-400">Categories</a>
         </div>
 
